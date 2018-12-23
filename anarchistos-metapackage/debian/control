@@ -8,8 +8,7 @@ Homepage: https://www.anarchiostos.tk
 
 Package: anarchistos-metapackage
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}
-Recommends: xorg, openbox, obmenu, obconf, nitrogen, gmrun, fbxkb, 
+Depends: xorg, openbox, obmenu, obconf, nitrogen, gmrun, fbxkb, 
  compton, transset-df, file-roller, xscreensaver, terminator, filezilla, 
  lxappearance, arandr, tint2, clipit, catfish, xfce4-notifyd, gksu, 
  gdebi, menu, wmctrl, xdotool, desktop-base, slim, thunar, 
