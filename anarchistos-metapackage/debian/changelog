@@ -1,0 +1,13 @@
+anarchistos-metapackage (1.1) unstable; urgency=low
+
+  * Initial Release.
+  * Ported to AnarchistOS.
+
+ -- AreYouLoco? <areyouloco@paranoici.org>  Sun, 23 Dec 2018 12:51:08 +0100
+
+
+cbpp-metapackage (1.0) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Ben Young <computermouth@crunchbangplusplus.org>  Fri, 24 Apr 2015 20:38:23 -0500
