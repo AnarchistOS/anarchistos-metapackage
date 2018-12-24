@@ -1,8 +1,15 @@
+anarchistos-metapackage (1.1.2) crowbar; urgency=low
+
+  * Updated package list.
+
+ -- AreYouLoco? <areyouloco@paranoici.org>  Mon, 24 Dec 2018 18:15:25 +0000
+
+
 anarchistos-metapackage (1.1.1) crowbar; urgency=low
 
   * Updated package list.
 
- -- AreYouLoco? <areyouloco@paranoici.org>  Mon, 24 Dec 2018 16:11:00 +0100
+ -- AreYouLoco? <areyouloco@paranoici.org>  Mon, 24 Dec 2018 19:12:49 +0100
 
 anarchistos-metapackage (1.1) crowbar; urgency=low
 
