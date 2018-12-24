@@ -31,7 +31,7 @@ Depends: xorg, openbox, obmenu, obapps, obconf, nitrogen, gmrun, fbxkb,
  anarchistos-keyring, anarchistos-lxdm-theme, anarchistos-exit,
  anarchistos-configs, plymouth-theme-anarchistos, plymouth,
  anarchistos-icon-theme, anarchistos-ui-theme, anarchistos-welcome,
- anarchistos-slim, python-software-properties, mate-power-preferences,
- cryptsetup, lvm2, mime-support
+ anarchistos-slim, python-software-properties, xfce4-power-manager,
+ cryptsetup, lvm2, mime-support, pavucontrol
 Description: metapackage for AnarchistOS
  Basic metapackage for AnarchistOS linux.
